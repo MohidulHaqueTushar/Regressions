@@ -15,7 +15,7 @@ Regression modles generally used to predict continuous data. There are many kind
 ### Model Training
 Regression models can be trained in two different ways:
 1. Closed Form: where the data have low complexity, less training features, and less data points
-2. Gradient Descent: where the problem has wide range, complex, more training features, and more training instances
+2. Gradient Descent: where the problem has wide range, complex, more training features, and more training instances <br>
   There are three versions of GD:
     1. Batch Gradient Descent
     2. Stochastic Gradient Descent
