@@ -2,7 +2,7 @@
 
 Regression modles generally used to predict continuous data. There are many kinds of regression problems available to deal with different types of problems. <br>
 
-## Common Regression types:
+## Common Regression Types:
 1. Linear Regression
 2. Polynomial Regression
 3. Regularized Regression
